@@ -1,2 +1,3 @@
 # tool
-https://hebuda.github.io/tool/
+https://hebuda.github.io/codes/
+https://codes.ihe.ink
